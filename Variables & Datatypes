@@ -1,0 +1,9 @@
+age = 22          # Integer
+height = 5.7      # Float
+name = "Abhinav"    # String
+is_student = True  # Boolean
+
+print("Age:", age)
+print("Height:", height)
+print("Name:", name)
+print("Is Student:", is_student)
